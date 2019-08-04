@@ -45,7 +45,7 @@ TODO
 
 ▸ **model**(): `void`
 
-*Defined in [Model.ts:10](https://github.com/stephanecharron/Model/blob/2c797b0/src/Model.ts#L10)*
+*Defined in [Model.ts:10](https://github.com/stephanecharron/Model/blob/f564f58/src/Model.ts#L10)*
 
 TODO: document
 
